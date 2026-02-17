@@ -1,7 +1,7 @@
 <div align="left">
-  <h1>Hi, I'm Premansh Tripathi ⚡</h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00BFFF&vCenter=true&width=1200&lines=Hi+There!+I'm+Premansh+Tripathi;Backend+Developer;Building+Production+Grade+Scalable+Backend+Architectures" alt="Typing SVG" />
   <h3>Backend Developer | Exploring ML</h3>
-  <p>B.Tech CS Undergrad building robust backend architectures, grinding competitive programming, and transitioning into AI/ML integrations.</p>
+  <p>B.Tech CS Undergrad building production grade, scalable backend architectures and exploring AIML.</p>
 </div>
 
 ## 🌐 Socials
