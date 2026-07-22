@@ -32,7 +32,7 @@
 
 
 ## ⚡ Current Focus & Milestones
-- **Certifications:** Recently earned the **AWS Certified Cloud Practitioner (CLF-C02)** credential.
+- **Certifications:** Recently earned the **AWS Certified Cloud Practitioner (CLF-C02)** certifiate.
 - **Machine Learning & AI:** Expanding my skill set from pure backend into ML models and AI Agents.
 - **Problem Solving:** Actively solving algorithmic challenges and improving logic on **LeetCode** and **Codeforces**.
 
